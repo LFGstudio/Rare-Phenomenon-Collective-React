@@ -1,8 +1,8 @@
 .not-found-container {
-  width: 100%;
+  width: 0%;
   display: flex;
   overflow: auto;
-  min-height: 100vh;
+ height: 0% ;
   align-items: center;
   flex-direction: column;
   justify-content: center;
